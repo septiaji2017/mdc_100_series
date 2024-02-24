@@ -27,7 +27,8 @@ git clone https://github.com/septiaji2017/mdc_100_series.git
 Proyek ini membutuhkan <ins>Android Studio</ins> untuk menjalankannya
 
 ## Modifikasi
-### 1. Menambahkan Splash Screen ketika aplikasi pertama kali dimulai
+### 1. Menambahkan Splash Screen
+#### ketika aplikasi pertama kali dijalankan
 <img src="https://github.com/septiaji2017/mdc_100_series/assets/73025651/0aa9cf4d-2521-44b0-aeb0-f409813287fe" width="200" height="420">
 
 ### 2. Menambahkan Validasi
