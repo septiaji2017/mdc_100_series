@@ -32,7 +32,7 @@ Proyek ini membutuhkan <ins>Android Studio</ins> untuk menjalankannya
 <img src="https://github.com/septiaji2017/mdc_100_series/assets/73025651/0aa9cf4d-2521-44b0-aeb0-f409813287fe" width="200" height="420">
 
 ### 2. Menambahkan Validasi
-#### Mengecek apakah username dan password sudah terisi (lihat bagian bawah layar)
+#### Mengecek apakah username dan password sudah terisi (lihat bagian bawah layar), serta perubahan warna tombol dan tulisan
 <img src="https://github.com/septiaji2017/mdc_100_series/assets/73025651/1b865867-1857-43ef-8166-681542b72972" width="200" height="420">
 
 ### 3. Perubahan Tema / Warna latar belakang
